@@ -1,5 +1,9 @@
 # gitflow
 ## STUDING GIT FLOW VIA PIAIC
+- [x] changing
+- [ ] not changing
+
+
 i am a student of **BSCS** from __UOK__ *University of Karachi*
 my techer is ***sir badar sami***
 
